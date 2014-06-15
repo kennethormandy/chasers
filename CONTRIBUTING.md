@@ -39,10 +39,12 @@ We love pull requests. Here’s a quick guide:
   git commit -am "Adds a fix for that thing!"
   ```
 
-5. Review the tests:
+5. Review the tests. You’ll need to have [Harp](http://harpjs.com), which you can [get started with here](http://harpjs.com/docs/quick-start).
 
   ```bash
+  npm install -g harp
   npm test
+  # Test is now available in the browser at http://localhost:9023/test
   ```
 
 6. If everything looks good, push to your fork:
