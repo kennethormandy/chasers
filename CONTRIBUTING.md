@@ -1,14 +1,14 @@
 # Contributing
 
-Thanks for considering contributing to Chaser!
+Thanks for considering contributing to Chasers!
 
 If you’re new to all this GitHub, Open Source, JavaScript, Node.js, testing, wow all this stuff seems really difficult I just want to make my sites better stuff, I get it. I’m still there, too.
 
-Feel free to [send me an email](hello@kennethormandy.com) or [open an issue here](http://github.com/kennethormandy/chaser/issues) and I’ll do my best to share some resources that have helped me out. No promises—I’m still learning, too—but I can say it would be great to have you stay around, or be involved in any capacity, if you’re interested.
+Feel free to [send me an email](hello@kennethormandy.com) or [open an issue here](http://github.com/kennethormandy/chasers/issues) and I’ll do my best to share some resources that have helped me out. No promises—I’m still learning, too—but I can say it would be great to have you stay around, or be involved in any capacity, if you’re interested.
 
 ## Opening issues
 
-If you find a bug, please feel free to [open an issue](https://github.com/kennethormandy/chaser/issues).
+If you find a bug, please feel free to [open an issue](https://github.com/kennethormandy/chasers/issues).
 
 If you taking the time to mention a problem, even a seemingly minor one, it is greatly appreciated, and a totally valid contribution to this project. Thank you!
 
@@ -16,10 +16,10 @@ If you taking the time to mention a problem, even a seemingly minor one, it is g
 
 We love pull requests. Here’s a quick guide:
 
-1. [Fork this repository](https://github.com/kennethormandy/chaser/fork) and then clone it locally:
+1. [Fork this repository](https://github.com/kennethormandy/chasers/fork) and then clone it locally:
 
   ```bash
-  git clone https://github.com/kennethormandy/chaser
+  git clone https://github.com/kennethormandy/chasers
   ```
 
 2. Create a topic branch for your changes:
@@ -61,4 +61,4 @@ We love pull requests. Here’s a quick guide:
 
 ## Adding new features
 
-Thinking of adding a new feature? Cool! [Open an issue](https://github.com/kennethormandy/chaser/issues) and let’s design it together.
+Thinking of adding a new feature? Cool! [Open an issue](https://github.com/kennethormandy/chasers/issues) and let’s design it together.

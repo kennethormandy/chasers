@@ -1,15 +1,15 @@
-# Chaser
+# Chasers
 
 [Bourbon](http://bourbon.io) [Neat](http://neat.bourbon.io) helpers, making complex, mobile-first layouts a little easier.
 
 ## Getting started
 
-You’ll need to install and import Bourbon and Neat before the complementary Chaser.
+You’ll need to install and import Bourbon and Neat before the complementary Chasers.
 
 ```scss
 @import "path/to/bourbon";
 @import "path/to/neat";
-@import "path/to/chaser";
+@import "path/to/chasers";
 ```
 
 ## Example
@@ -63,8 +63,8 @@ Chaser’s version of `omega-reset()` support right-to-left and left-to-right la
 ## Running locally
 
 ```bash
-git clone https://github.com/kennethormandy/chaser
-cd chaser
+git clone https://github.com/kennethormandy/chasers
+cd chasers
 npm install -g harp # Install Harp to run the tests
 npm install # Install Bourbon and Neat
 npm test # Run the tests
@@ -72,7 +72,7 @@ npm test # Run the tests
 
 ## Contributing
 
-Thanks for considering contributing! There’s information about how to [get started contributing to Chaser here](CONTRIBUTING.md).
+Thanks for considering contributing! There’s information about how to [get started contributing to Chasers here](CONTRIBUTING.md).
 
 ## License
 

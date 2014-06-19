@@ -1,5 +1,5 @@
 {
-  "name": "chaser",
+  "name": "chasers",
   "description": "Bourbon Neat helpers, making complex, mobile-first layouts a little easier.",
   "version": "0.2.0",
   "author": "Kenneth Ormandy <hello@kennethormandy.com>",
@@ -8,11 +8,11 @@
     "Johannes Schmidt",
     "Kenneth Ormandy"
   ],
-  "main": "src/_chaser.scss",
+  "main": "src/_chasers.scss",
   "scripts": {
     "test": "harp server -p 9023 & open http://localhost:9023/test"
   },
-  "repository": "https://github.com/kennethormandy/chaser.git",
+  "repository": "https://github.com/kennethormandy/chasers.git",
   "devDependencies": {
     "bourbon": "git://github.com/thoughtbot/bourbon#v3.2.2",
     "neat": "git://github.com/kennethormandy/neat"
