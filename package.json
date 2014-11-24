@@ -1,7 +1,7 @@
 {
   "name": "chasers",
   "description": "Bourbon Neat helpers, making complex, mobile-first layouts a little easier.",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "author": "Kenneth Ormandy <hello@kennethormandy.com>",
   "contributors": [
     "Josh Fry",

@@ -1,6 +1,6 @@
 {
   "name": "chasers",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "homepage": "http://github.com/kennethormandy/chasers",
   "description": "Bourbon Neat helpers, making complex, mobile-first layouts a little easier.",
   "main": "src/_chasers.scss",
