@@ -4,7 +4,21 @@
 
 ## Getting started
 
-You’ll need to install and import Bourbon and Neat before the complementary Chasers.
+You’ll need to install and import Bourbon and Neat before the complementary Chasers. To do this manually, [download this repository](https://github.com/kennethormandy/chasers/archive/master.zip). Alternatively, use the package manager and build tool of your choice:
+
+#### With npm
+
+```
+npm install kennethormandy/chasers
+```
+
+#### With bower
+
+```bash
+bower install chasers
+```
+
+Then, import your Sass files or include them in your build process as necessary.
 
 ```scss
 @import "path/to/bourbon";
