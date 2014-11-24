@@ -17,6 +17,11 @@
     "bourbon": "git://github.com/thoughtbot/bourbon#v3.2.2",
     "neat": "git://github.com/kennethormandy/neat"
   },
+  "files": [
+    "README.md",
+    "LICENSE.md",
+    "src"
+  ],
   "keywords": [
     "sass",
     "css",
