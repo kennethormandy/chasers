@@ -14,7 +14,7 @@
   },
   "repository": "https://github.com/kennethormandy/chasers.git",
   "devDependencies": {
-    "bourbon": "git://github.com/thoughtbot/bourbon#v3.2.2",
+    "bourbon": "git://github.com/thoughtbot/bourbon#v3.2.3",
     "neat": "git://github.com/kennethormandy/neat"
   },
   "files": [
