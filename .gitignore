@@ -1,13 +1,23 @@
-# Dot files
+# OS
 .DS_Store
+
+# Logs
+logs
+*.log
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directory
+node_modules
+components
+bower_components
+
+# Compile directories
+www/
+_book/
+build/
+vendor/
+tmp/
 .sass-cache
 .bundle
-
-# Directories
-tmp
-build
-vendor
-
-# Node
-node_modules
-npm-debug.log
